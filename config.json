@@ -1,0 +1,42 @@
+{
+  "id": 100001,
+  "name": "My Compose Dial",
+  "diyType": 0,
+  "diyVersion": 1,
+  "preview": "compose_dial_preview",
+  "elementList": [
+    {
+      "component": "time_no_6",
+      "componentId": 1,
+      "type": 1,
+      "x": 56,
+      "y": 3,
+      "width": 180,
+      "height": 86,
+      "versionCode": 10,
+      "extra": "{\"previewStyle\":5,\"runMode\":2}"
+    },
+    {
+      "component": "date_no_2",
+      "componentId": 2,
+      "type": 1,
+      "x": 50,
+      "y": 100,
+      "width": 200,
+      "height": 40,
+      "versionCode": 10,
+      "extra": ""
+    },
+    {
+      "component": "battery_circle",
+      "componentId": 3,
+      "type": 1,
+      "x": 140,
+      "y": 160,
+      "width": 80,
+      "height": 80,
+      "versionCode": 10,
+      "extra": ""
+    }
+  ]
+}
